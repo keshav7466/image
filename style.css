@@ -1,0 +1,18 @@
+div{
+    text-align: center;
+}
+h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 40px;
+    color: red;
+}
+#img{
+    display: block;
+    margin: auto;
+    height: 420px;
+    width: 410px;
+    text-align: center;
+}
+body{
+    background-color: yellow;
+}
